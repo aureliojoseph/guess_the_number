@@ -2,9 +2,14 @@
 
 A simple little game made as a small JavaScript learning project.
 
-# languages
-- JavaScript
-- HTML
-- CSS
+## Languages and Features used:
 
-### play and enjoy ;)
+### JavaScript
+
+### HTML
+
+### CSS
+
+#### enjoy exploring it ;)
+
+##########################################################
